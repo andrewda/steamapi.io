@@ -1,0 +1,29 @@
+{
+  "name": "steamapi.io",
+  "version": "1.0.0",
+  "description": "A simple module to interact with SteamAPI.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewda/steamapi.io.git"
+  },
+  "keywords": [
+    "steam",
+    "steamapi",
+    "csgo",
+    "tf2"
+  ],
+  "author": "Andrew Dassonville <dassonville.andrew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewda/steamapi.io/issues"
+  },
+  "homepage": "https://github.com/andrewda/steamapi.io#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
