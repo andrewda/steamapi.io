@@ -1,4 +1,10 @@
-# steamapi.io
+<p align="center">
+  <a href="https://steamapi.io">
+    <img src="https://steamapi.io/assets/img/logo.svg" width="175" />
+  </a>
+</p>
+
+<h1 align="center">steamapi.io</h1>
 
 A simple module to interact with [SteamAPI.io](https://steamapi.io).
 
