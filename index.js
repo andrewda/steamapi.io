@@ -86,7 +86,7 @@ class SteamApi {
 
   async getUserInventory(steamid, appid, contextid = 2) {
     const GET_USER_INVENTORY = `/user/inventory/${steamid}/${appid}/${contextid}`;
-    const response = await this._apiRequest(GET_USER_CONTEXTS);
+    const response = await this._apiRequest(GET_USER_INVENTORY);
     return response;
   }
 }
